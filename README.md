@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Output Images
 
-https://github.com/AakankshaDahima/NewChartsFromFile/blob/main/src/assets/outputDisplay.jpeg
+![alt text](https://github.com/AakankshaDahima/NewChartsFromFile/blob/main/src/assets/outputDisplay.jpeg?raw=true)
 
 https://github.com/AakankshaDahima/NewChartsFromFile/blob/main/src/assets/outputDisplay2.jpeg
 
