@@ -1,18 +1,9 @@
-# ChartsFilter
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
-
-# Output Images
 
 ![alt text](https://github.com/AakankshaDahima/NewChartsFromFile/blob/main/src/assets/outputDisplay.jpeg?raw=true)
 
-https://github.com/AakankshaDahima/NewChartsFromFile/blob/main/src/assets/outputDisplay2.jpeg
+# ChartsFilter
 
-https://github.com/AakankshaDahima/NewChartsFromFile/blob/main/src/assets/outputDisplay3.jpeg
-
-https://github.com/AakankshaDahima/NewChartsFromFile/blob/main/src/assets/outputDisplay4.jpeg
-
-https://github.com/AakankshaDahima/NewChartsFromFile/blob/main/src/assets/outputDisplay5.jpeg
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
 
 ## Development server
 
@@ -44,3 +35,14 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Output Images
+
+![alt text](https://github.com/AakankshaDahima/NewChartsFromFile/blob/main/src/assets/outputDisplay2.jpeg?raw=true)
+
+![alt text](https://github.com/AakankshaDahima/NewChartsFromFile/blob/main/src/assets/outputDisplay3.jpeg?raw=true)
+
+![alt text](https://github.com/AakankshaDahima/NewChartsFromFile/blob/main/src/assets/outputDisplay4.jpeg?raw=true)
+
+![alt text](https://github.com/AakankshaDahima/NewChartsFromFile/blob/main/src/assets/outputDisplay5.jpeg?raw=true)
+
