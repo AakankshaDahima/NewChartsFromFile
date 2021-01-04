@@ -1,6 +1,6 @@
 # ChartsFilter
 
-SPA for displying data in various charts from uploaded files.
+SPA for displaying data in various charts from uploaded files.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
 
 ![alt text](https://github.com/AakankshaDahima/NewChartsFromFile/blob/main/src/assets/outputDisplay5.jpeg?raw=true)
@@ -14,9 +14,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 For running the application follow:
-    `1. npm install -g @angular/cli
-    2. npm install
-    3. ng serve`
+    `npm install -g @angular/cli; npm install; ng serve`
 
 ## Build
 
