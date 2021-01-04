@@ -1,0 +1,42 @@
+:host {
+    display: flex;
+    flex-direction: column;
+
+    padding: 25px;
+    background-color: #eaeaea;
+
+    height: 100vh;
+}
+
+.card {
+    background: white;
+    color: dimgrey;
+
+    margin-bottom: 10px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+
+    .filters {
+        width: 100%;
+        max-width: 350px;
+
+    }
+
+    .chart {
+        width: 100%;
+    margin-left: 25px;
+
+        .chart-card {
+            min-height: 74vh;
+        }
+
+    }
+}
+
+:host .mat-select-panel {
+    z-index: 10 !important;
+    background: white !important;
+}
