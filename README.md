@@ -11,14 +11,12 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Code scaffolding
 
-{   
-    To run, 
-    1. npm install -g @angular/cli
-    2. npm install
-    3. ng serve
-}
-
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+For running the application follow:
+    `1. npm install -g @angular/cli
+    2. npm install
+    3. ng serve`
 
 ## Build
 
