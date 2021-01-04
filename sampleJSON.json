@@ -1,0 +1,66 @@
+[
+    {
+        "Installation": "43934",
+        "Manufacturing": "24916",
+        "Sales & Distribution": "11744",
+        "Project Development": "232311",
+        "Other": "2121",
+        "created": 1609740340000
+    },
+    {
+        "Installation": "4334",
+        "Manufacturing": "24716",
+        "Sales & Distribution": "56565",
+        "Project Development": "1234",
+        "Other": "876",
+        "created": 1609740340010
+    },
+    {
+        "Installation": "23244",
+        "Manufacturing": "5677",
+        "Sales & Distribution": "3421",
+        "Project Development": "7896",
+        "Other": "4532",
+        "created": 1609740340020
+    },
+    {
+        "Installation": "5672",
+        "Manufacturing": "23233",
+        "Sales & Distribution": "78675",
+        "Project Development": "45634",
+        "Other": "675",
+        "created": 1609740340040
+    },
+    {
+        "Installation": "8906",
+        "Manufacturing": "56747",
+        "Sales & Distribution": "3245",
+        "Project Development": "98964",
+        "Other": "64",
+        "created": 1609740340060
+    },
+    {
+        "Installation": "3452",
+        "Manufacturing": "6753",
+        "Sales & Distribution": "896",
+        "Project Development": "5674",
+        "Other": "564",
+        "created": 1609740340080
+    },
+    {
+        "Installation": "635",
+        "Manufacturing": "3425",
+        "Sales & Distribution": "5674",
+        "Project Development": "7896",
+        "Other": "56",
+        "created": 1609740340100
+    },
+    {
+        "Installation": "890",
+        "Manufacturing": "2342",
+        "Sales & Distribution": "453",    
+        "Project Development": "5677",
+        "Other": "678",
+        "created": 1609740340120
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "from": "Installation",
+        "to": "Manufacturing",
+        "weight": "2"
+    },
+    {
+        "from": "Sales & Distribution",
+        "to": "Installation",
+        "weight": "1"
+    },
+    {
+        "from": "Other",
+        "to": "Installation",
+        "weight": "2"
+    },
+    {
+        "from": "Project Development",
+        "to": "Manufacturing",
+        "weight": "4"
+    },
+    {
+        "from": "Sales & Distribution",
+        "to": "Installation",
+        "weight": "1"
+    },
+    {
+        "from": "Installation",
+        "to": "Sales & Distribution",
+        "weight": "5"
+    },
+    {
+        "from": "Project Development",
+        "to": "Other",
+        "weight": "1"
+    },
+    {
+        "from": "Sales & Distribution",
+        "to": "Manufacturing",
+        "weight": "5"
+    }
+]
