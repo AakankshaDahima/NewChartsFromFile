@@ -2,6 +2,18 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
 
+# Output Images
+
+https://github.com/AakankshaDahima/NewChartsFromFile/blob/main/src/assets/outputDisplay.jpeg
+
+https://github.com/AakankshaDahima/NewChartsFromFile/blob/main/src/assets/outputDisplay2.jpeg
+
+https://github.com/AakankshaDahima/NewChartsFromFile/blob/main/src/assets/outputDisplay3.jpeg
+
+https://github.com/AakankshaDahima/NewChartsFromFile/blob/main/src/assets/outputDisplay4.jpeg
+
+https://github.com/AakankshaDahima/NewChartsFromFile/blob/main/src/assets/outputDisplay5.jpeg
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
