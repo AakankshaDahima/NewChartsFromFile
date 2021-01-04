@@ -1,9 +1,9 @@
-
-![alt text](https://github.com/AakankshaDahima/NewChartsFromFile/blob/main/src/assets/outputDisplay.jpeg?raw=true)
-
 # ChartsFilter
 
+SPA for displying data in various charts from uploaded files.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
+
+![alt text](https://github.com/AakankshaDahima/NewChartsFromFile/blob/main/src/assets/outputDisplay5.jpeg?raw=true)
 
 ## Development server
 
@@ -43,6 +43,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ![alt text](https://github.com/AakankshaDahima/NewChartsFromFile/blob/main/src/assets/outputDisplay3.jpeg?raw=true)
 
 ![alt text](https://github.com/AakankshaDahima/NewChartsFromFile/blob/main/src/assets/outputDisplay4.jpeg?raw=true)
-
-![alt text](https://github.com/AakankshaDahima/NewChartsFromFile/blob/main/src/assets/outputDisplay5.jpeg?raw=true)
 
